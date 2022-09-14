@@ -1,5 +1,5 @@
 # Pill-Hunt
-A videogame where you need to avoid get pregnant
+A video game where you are an ovary that has to flee from sperm and get the pill
 
 Explore 4 levels
 <br/>
